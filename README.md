@@ -10,7 +10,7 @@ Este es un programa en Java que permite convertir entre diferentes monedas utili
 ![convertidor](https://github.com/user-attachments/assets/791186d4-9201-4ec1-8ecc-e551a00eb09e)
 
 ## :hammer:Funcionalidades del proyecto
-- `Funcionalidad`: Convertir monedas
+- `Funcionalidad`: Convertir valor de monedas entre dólares, pesos argentinos, real brasileño y pesos colombianos
 
 ## :white_check_mark:Tecnologías usadas
 - `Java 17`
